@@ -1,22 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b983fd&height=120&section=header"/>
+<h1 align="left">Hey, what's up? I'm Merlin! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b983fd&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo!;Meu+nome+é+Gabriel+Merlin;Tenho+19+anos;Curso+Ciências+de+Computação+na+USP)](https://git.io/typing-svg)
+###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcmerlin&bg_color=0d1117&color=b983fd&line=684da2&point=b983fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">I'm an undergraduate CS student academically interested in Time Series Deep Learning, more specifically in the Health domain. Outside the academic environment, I like to read books about Astronomy. Currently, my main objective is a student exchange program.</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielcmerlin&show_icons=true&count_private=true&hide_border=true&title_color=b983fd&icon_color=684da2&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcmerlin&layout=compact&hide_border=true&title_color=b983fd&text_color=684da2&bg_color=0d1117" />
+###
+
+<h2 align="left">I already know</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-### O que já sei:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+###
 
-### O que estou aprendendo:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<h2 align="left">I'm learning</h2>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b983fd&height=120&section=footer"/>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
