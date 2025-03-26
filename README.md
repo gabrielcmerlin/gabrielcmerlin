@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate CS student academically interested in Deep Learning for Time Series, more specifically in the Health domain. Outside the academic environment, I like to read books about Astronomy. Currently, my main objective is a student exchange program.</p>
+<p align="left">I'm an undergraduate CS student academically interested in Deep Learning for Time Series, more specifically in the Health domain. Outside the academic environment, I like to read books about Astronomy.</p>
 
 ###
 
