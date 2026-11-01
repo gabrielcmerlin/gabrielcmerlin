@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">I'm an undergraduate CS student academically interested in Deep Learning for Time Series, more specifically in the Health domain. Outside the academic environment, I like to read books!</p>
+🔭 Currently researching Deep Learning for Time Series at [LABIC-USP]([url](https://labic.icmc.usp.br))
+
+🌱 Studying Deep Learning for Time Series, tabular foundation models and Neural Architecture Search
+
+🔬 Developed research in collaboration with the Universidad de Granada
+
+🤝 I am open to collaborate on any AI/ML subject
+
+⚡ Fun fact: I enjoy reading books 📚
 
 ###
 
