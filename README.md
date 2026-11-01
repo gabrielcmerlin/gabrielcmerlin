@@ -4,7 +4,7 @@
 
 🔭 Currently researching Deep Learning for Time Series at <a href="https://labic.icmc.usp.br/">LABIC-USP</a>
 
-🌱 Studying Deep Learning for Time Series, tabular foundation models and Neural Architecture Search
+🌱 Studying Foundation Models and Neural Architecture Search
 
 🔬 Developed research in collaboration with the Universidad de Granada
 
